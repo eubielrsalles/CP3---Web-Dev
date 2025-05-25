@@ -18,9 +18,11 @@ Uma aplicação web simples e estilizada para listar e filtrar jogos disponívei
 ---
 
 ## 🧰 Tecnologias Utilizadas:
-<img src="caminho/html5-logo.png" alt="HTML5" width="20"> HTML5  
-<img src="caminho/css3-logo.png" alt="CSS3" width="20"> CSS3  
-<img src="caminho/js-logo.png" alt="JavaScript" width="20"> JavaScript
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25"/> HTML5  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25"/> CSS3  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25"/> JavaScript
+
 
 ---
 
