@@ -1,0 +1,96 @@
+CSS  body {
+    font-family: monospace;
+    margin: 20px;
+    background-color: #333;
+    color: rgb(0, 255, 0);
+    text-shadow: 0 0 5px rgb(0, 255, 0);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 0);
+    text-shadow: 0 0 10px rgb(255, 255, 0);
+}
+
+.area-de-botoes {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #555555;
+    border: 2px solid rgb(0, 255, 0);
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0,255,0,0.5);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.area-de-botoes button, .area-de-botoes select {
+    padding: 10px 20px;
+    border: 2px solid rgb(0, 255, 0);
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #777777;
+    color: rgb(255, 255, 0);
+    font-family: monospace;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgb(255, 255, 0);
+    box-shadow: inset 0 0 5px rgb(0, 255, 0);
+}
+
+.area-de-botoes button:hover {
+    background-color: rgb(0, 255, 0);
+    color: #333333;
+    text-shadow: none;
+    box-shadow: 0 0 20px rgb(0, 255, 0);
+}
+
+#prateleiraDeJogos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    padding: 20px;
+    background-color: #2a2a2a;
+    border: 3px solid #888888; 
+}
+
+.caixinha-de-jogo {
+    background-color: #444444;
+    border: 3px solid #777777;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.8);
+    transition: transform 0.2s, box-shadow 0.2s, background-color 0.2s;
+    text-align: center;
+}
+
+.caixinha-de-jogo:hover {
+    transform: translateY(-8px);
+    background-color: #666666;
+    border-color: rgb(255, 255, 0);
+    box-shadow: 0 0 30px rgb(255, 255, 0), 5px 5px 20px rgba(0,0,0,0.9);
+}
+
+.caixinha-de-jogo h3 {
+    margin-top: 0;
+    color: #ffffff;
+    text-shadow: 0 0 8px #ffffff;
+}
+
+.caixinha-de-jogo p {
+    margin: 8px 0;
+    color: #cccccc;
+}
+
+.status-disponivel {
+    color: rgb(0, 255, 0);
+    font-weight: bold;
+    text-shadow: 0 0 5px rgb(0, 255, 0);
+}
+
+.status-esgotado {
+    color: rgb(255, 0, 0); 
+   
+    text-shadow: 0 0 10px rgb(255, 0, 0), 0 0 20px rgb(255, 0, 0), 0 0 30px rgba(255, 0, 0, 0.7);
+}
