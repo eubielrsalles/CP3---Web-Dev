@@ -42,7 +42,7 @@ CP-Lista-Jogos/
 
 ## 🔗 Como acessar o projeto:
 
-➡️ [[Clique aqui para abrir o repositório](https://github.com/eubielrsalles/CP3---Web-Dev.git)](https://github.com/eubielrsalles/CP3---Web-Dev.git)
+https://github.com/eubielrsalles/CP3---Web-Dev.git
 
 ---
 
