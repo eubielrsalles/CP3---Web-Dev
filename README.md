@@ -4,13 +4,11 @@ Uma aplicação web simples e estilizada para listar e filtrar jogos disponívei
 
 ## 🖼️ Preview
 
-> ![screenshot](screenshot.png)  
-> *(Adicione uma imagem chamada `screenshot.png` na raiz do projeto para exibir aqui)*
+![image](https://github.com/user-attachments/assets/ab10501e-2b49-4add-9d22-479e0162e7e7)
 
 ---
 
-## 🚀 Funcionalidades
-
+## 🚀 Funcionalidades:
 - ✅ Ver todos os jogos
 - 🎯 Filtrar jogos por tipo: Ação, Aventura, RPG, Estratégia, etc.
 - 📦 Filtrar por disponibilidade: “Só os que dá pra jogar agora!”
