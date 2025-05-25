@@ -1,6 +1,6 @@
 # 🎮 CP Lista de Jogos
 
-Uma aplicação web simples e estilizada para listar e filtrar jogos disponíveis. Você pode visualizar todos os jogos cadastrados, filtrar por tipo e exibir apenas os que estão disponíveis para jogar no momento. Criado com HTML, CSS e JavaScript puro.
+Uma aplicação web simples e estilizada para listar e filtrar jogos disponíveis utilizando as tecnologias do desafio. Você pode visualizar todos os jogos cadastrados, filtrar por tipo e exibir apenas os que estão disponíveis para jogar no momento. Criado com HTML, CSS e JavaScript.
 
 ## 🖼️ Preview
 
@@ -19,23 +19,24 @@ Uma aplicação web simples e estilizada para listar e filtrar jogos disponívei
 
 ## 🧰 Tecnologias Utilizadas:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25"/> HTML5  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25"/> CSS3  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25"/> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25"/> HTML5  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25"/> CSS3  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25"/> JavaScript
 
 
 ---
 
 ## 📁 Estrutura do Projeto:
 CP-Lista-Jogos/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- index.html
+- style.css
+- script.js
+- README.md
 
 ---
 
 ## 🧪 Como acessar o site:
+https://github.com/eubielrsalles/CP3---Web-Dev.git
 
 ## 👨‍💻 Autores:
 Gabriel Salles  
