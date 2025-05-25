@@ -18,9 +18,9 @@ Uma aplicação web simples e estilizada para listar e filtrar jogos disponívei
 ---
 
 ## 🧰 Tecnologias Utilizadas:
-- <img src="caminho/html5-logo.png" alt="HTML5" width="20"> HTML5  
-- <img src="caminho/css3-logo.png" alt="CSS3" width="20"> CSS3  
-- <img src="caminho/js-logo.png" alt="JavaScript" width="20"> JavaScript
+<img src="caminho/html5-logo.png" alt="HTML5" width="20"> HTML5  
+<img src="caminho/css3-logo.png" alt="CSS3" width="20"> CSS3  
+<img src="caminho/js-logo.png" alt="JavaScript" width="20"> JavaScript
 
 ---
 
