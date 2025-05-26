@@ -1,12 +1,18 @@
-# 🎮 CP Lista de Jogos
+# 🎮 CP Lista de Jogos:
 
 Uma aplicação web simples e estilizada para listar e filtrar jogos disponíveis. Você pode visualizar todos os jogos cadastrados, filtrar por tipo e exibir apenas os que estão disponíveis para jogar no momento. Criado com HTML, CSS e JavaScript.
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview:
 
 ![image](https://github.com/user-attachments/assets/ab10501e-2b49-4add-9d22-479e0162e7e7)
+
+---
+
+## 🗂️ Diagrama da Aplicação:
+
+<img src="caminho\Diagrama cp3 web dev.png" alt="diagrama"/>
 
 ---
 
