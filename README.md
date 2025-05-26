@@ -42,7 +42,7 @@ CP-Lista-Jogos/
 
 ## 🔗 Como acessar o projeto:
 
-➡️ [Clique aqui para abrir o repositório](https://github.com/eubielrsalles/CP3---Web-Dev.git)
+https://github.com/eubielrsalles/CP3---Web-Dev.git
 
 ---
 
@@ -94,3 +94,7 @@ const meusJogos = [
   { nome: "Cyberpunk 2077", valor: 200, tipo: "rpg", temPraJogar: true },
   // ... outros jogos
 ];
+
+---
+
+<img src="caminho\Diagrama cp3 web dev.png" alt="diagrama"/> Diagrama
